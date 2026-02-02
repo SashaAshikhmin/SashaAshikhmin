@@ -9,4 +9,4 @@ Beginner ML Engineer, currently looking for interships
 - **Programming Languages:** Python, C++, SQL (PostgreSQL)
 - **ML Libraries:** Scikit-learn, NumPy, Matplotlib, Optuna, SciPy, PyTorch
 - **Tools:** Git, Docker, Jupyter Notebook, Linux
-- **Languages:** English - Upper Intermediate
+- **English:** Upper Intermediate
